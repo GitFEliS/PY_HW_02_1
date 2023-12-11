@@ -8,5 +8,4 @@ setup(
     author_email='foomail@foo.example',
     packages=['hw_02_1'],  # same as name
     # external packages as dependencies
-    install_requires=[],
 )
